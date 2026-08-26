@@ -2,7 +2,8 @@
 ### ExpressJS+Typescript server template
 
 
-This is my template to init an API already setup with the supabase JWT access middleware. Just edit the `.env-default` variables and start
+This is my template to init an API already setup with the supabase JWT access middleware. Just edit the `.env-default` variables and start.
+Use it for quick prototyping.
 
 ## Scripts
 
